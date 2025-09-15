@@ -18,3 +18,6 @@ This project aims to develop a deep learning-based solution for classifying brai
 * Model comparison 
 * Public GitHub repository with README.
 * Maintain clean, modular, and well-commented code.
+
+# Dataset Link:
+https://drive.google.com/file/d/1cfa_uZc__z2NeBW6xZalRJejbdSed_Io/view?usp=sharing
